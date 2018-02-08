@@ -1,0 +1,9 @@
+Package: com.dpaulb.theos-test
+Name: theos-test
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: dPaulb
+Author: dPaulb
+Section: Utilities
